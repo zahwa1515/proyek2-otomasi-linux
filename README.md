@@ -1,0 +1,1 @@
+# proyek2-otomasi-linux
