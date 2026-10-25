@@ -1,0 +1,2 @@
+# Contoh konfigurasi sysinfo (tanpa credential)
+LOG_FILE=logs/sysinfo.log
