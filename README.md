@@ -92,5 +92,5 @@ Contoh ada di `config/sysinfo.conf.example`; file ini tidak dibaca otomatis oleh
 ## Catatan kontribusi anggota
 | Anggota | Kontribusi |
 |---------|------------|
-| (isi nama) | (isi, sesuai yang benar-benar dikerjakan) |
-| (isi nama) | (isi) |
+| Zahwa Dinasty | Menyusun repo dan struktur folder, menjalankan seluruh pengujian di Ubuntu VM, mengumpulkan log berhasil dan gagal, menulis dokumentasi hasil uji, membuat tag.|
+| (...) | (...) |
