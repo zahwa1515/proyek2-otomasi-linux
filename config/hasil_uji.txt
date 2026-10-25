@@ -1,0 +1,9 @@
+== Test berhasil ==
+PASS  T1 laporan dibuat di direktori valid (exit=0)
+PASS  T1b file laporan ada dan tidak kosong
+== Test gagal ==
+PASS  T2 tanpa argumen (exit=2)
+PASS  T3 direktori tidak ada (exit=3)
+PASS  T4 path mengandung .. (exit=5)
+PASS  T5 nama laporan tidak valid (exit=5)
+== Ringkasan: PASS=6 FAIL=0 ==
